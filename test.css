@@ -1,0 +1,13 @@
+body {
+	background-color: cyan;
+}
+
+h1 {
+	color: white;
+	text-align: center;
+}
+
+p {
+	font-famiily: verdana;
+	font-size: 20px;
+}
