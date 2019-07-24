@@ -108,7 +108,9 @@ hr.line {
 }
 
 body {
-	background-color: lightblue;
+	font-family: "Verdana";
+	background-color: #111;
+	font-color: white;
 }
 
 .h1 #image {
@@ -116,11 +118,12 @@ body {
 	text-align: center;
 }
 .h1 {
-	color: #333;
+	color: #fff;
 	text-align: center;
 }
 
 .column {
+	color: #ddd;
 	float: left;
 	width: 50%;
 }
@@ -131,10 +134,14 @@ body {
 }
 
 p.description {
-	color: #233;
+	color: #ccc;
 	text-align: center;
 }
 p {
 	font-famiily: verdana;
 	font-size: 20px;
+}
+.skills {
+	color: #ddd;
+
 }
