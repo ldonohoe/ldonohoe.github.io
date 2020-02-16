@@ -39,7 +39,6 @@
 	margin-top: 5px;
 	margin-left: auto;
 	margin-right: auto;
-	width: 50%;
 }
 
 .bar1, .bar2, .bar3 {
@@ -114,7 +113,7 @@ hr.line {
 }
 
 body {
-	font-family: "Verdana";
+	font-family: "Helvetica";
 	background-color: #111;
 	font-color: white;
 }
@@ -132,6 +131,8 @@ body.h1 {
 }
 
 .column {
+	padding-left: 5px;
+	padding-right: 5px;
 	color: #ddd;
 	float: left;
 	width: 50%;
@@ -147,26 +148,9 @@ p.description {
 }
 p {
 	color: #aaa;
-	font-famiily: "Verdana";
+	font-family: "Helvetica";
 	font-size: 20px;
 }
 .bars{
 	width: 100%;
 }
-.skills {
-	text-align: right;
-	padding-top: 10px;
-	padding-bottom: 10px;
-	color: white; 
-}
-.programming{
-	background-color: red;
-}
-.other{
-	background-color: orange;
-}
-
-.java {width: 50%; background-color: green}
-.c{width: 70%; background-color: green}
-.cpp{width:70%; background-color: green;}
-.debugging{width:75%; background-color: green}
